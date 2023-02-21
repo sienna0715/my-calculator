@@ -1,1 +1,1 @@
-# Sprint - JavaScript Calculator
+# JavaScript Calculator
